@@ -1,2 +1,3 @@
 include 'hammer-core'
+include 'hammer-api'
 

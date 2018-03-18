@@ -1,4 +1,4 @@
-package uk.co.drnaylor.hammer.core.configuration
+package uk.co.drnaylor.hammer.core.storage.mysql
 
 import ninja.leaping.configurate.objectmapping.Setting
 import ninja.leaping.configurate.objectmapping.serialize.ConfigSerializable
